@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-04-15 16:46:37">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>global update set test 2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>32118746db703300bf2c656b4b9619ab</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-15 16:46:36</sys_created_on>
+<sys_id>9841c786db703300bf2c656b4b961989</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-15 16:46:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_49b0f193db607300bf2c656b4b9619a8</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.codeReviewThis&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;test&lt;/description&gt;&lt;name&gt;codeReviewThis&lt;/name&gt;&lt;script&gt;&lt;![CDATA[/**
+ * Class Description
+ * 
+ * @class 
+ * @author System Administrator [admin]
+ * @memberof global.module:sys_script_include
+ */
+var codeReviewThis = Class.create();
+codeReviewThis.prototype = /** @lends global.module:sys_script_include.codeReviewThis.prototype */ {
+	
+	/**SNDOC
+	 * Description
+	 * 
+	 * @returns {undefined}
+	 */
+	initialize: function() {
+    },
+
+    type: 'codeReviewThis'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-04-06 21:51:28&lt;/sys_created_on&gt;&lt;sys_id&gt;49b0f193db607300bf2c656b4b9619a8&lt;/sys_id&gt;&lt;sys_mod_count&gt;8&lt;/sys_mod_count&gt;&lt;sys_name&gt;codeReviewThis&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_49b0f193db607300bf2c656b4b9619a8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-04-15 16:46:17&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-938372534</payload_hash>
+<remote_update_set display_value="global update set test 2">9841c786db703300bf2c656b4b961989</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-15 16:46:36</sys_created_on>
+<sys_id>5c41c786db703300bf2c656b4b961989</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16a21e463eb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-15 16:46:36</sys_updated_on>
+<table/>
+<target_name>codeReviewThis</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_guid>b72187866470330093128111981d51b5</update_guid>
+<update_guid_history>b72187866470330093128111981d51b5:-938372534,076e54d1b3343300d38b92fde2d0cff2:-789924144,122e90d13f3433002360518a77ce548c:275149667,10ebb6414f30330094e7e8e3821267ee:-1452287687,619b7e8199303300c15a3451c1f0f895:1211202669,945634c1b7343300d74c59507f514ca1:-1501084077,ec4f244d18f03300965413db4b3ce498:-962499850,5a7ca8c981f0330036b29928212eb309:477498028,beb0fdd31460730075ccb8ab2fadc2c3:94914487</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
