@@ -1,0 +1,23 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "global.codeReviewThis",
+  "client_callable": false,
+  "description": "test",
+  "name": "codeReviewThis",
+  "script": {
+    "____see": "sn/Global/Script Include/active_true/global.codeReviewThis.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-04-06 21:51:28",
+  "sys_id": "49b0f193db607300bf2c656b4b9619a8",
+  "sys_mod_count": 8,
+  "sys_name": "codeReviewThis",
+  "sys_package": "global",
+  "sys_policy": null,
+  "sys_scope": "global",
+  "sys_update_name": "sys_script_include_49b0f193db607300bf2c656b4b9619a8",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-04-15 16:46:17"
+}
